@@ -1,0 +1,34 @@
+{
+  "snapshot_date": "2026-10-16",
+  "scope": "Selected original source modules; no data, trained models, reports or original git history.",
+  "source_files": [
+    {
+      "source_relative_path": "scripts/personal_reservoir/segments.py",
+      "source_sha256": "8911c2277006bd99680993ec858c804f94a0ea7c0c0c69d7e0677bbee94d67e1"
+    },
+    {
+      "source_relative_path": "scripts/personal_reservoir/resampling.py",
+      "source_sha256": "767d09626ed16ce257777cc4b7e8748d9670619372ed744f023055160de19b82"
+    },
+    {
+      "source_relative_path": "scripts/personal_reservoir/sample_library.py",
+      "source_sha256": "58a4184594a61410fc8311791099730ada4d098b8014a4c0022d5235b1f28594"
+    },
+    {
+      "source_relative_path": "scripts/personal_reservoir/model_compare.py",
+      "source_sha256": "3d41aee4877e49bb4dc55ca1a7fda4c1e9cd40bc4866c5d9a9a4413cdc51c590"
+    },
+    {
+      "source_relative_path": "tests/test_personal_reservoir_resampling.py",
+      "source_sha256": "084014315ff5cd4793df02906ff09f4afb19b1292329e2385ed0d69905e0f680"
+    },
+    {
+      "source_relative_path": "tests/test_personal_reservoir_sample_library.py",
+      "source_sha256": "66377f4529016e3dc5f38f7503ed256be95324378ddc19b1dd8cfc92509e850d"
+    },
+    {
+      "source_relative_path": "tests/test_personal_reservoir_model_compare.py",
+      "source_sha256": "204ab5e32082635895e46ba232757a67a1b61c0fdd325bf680f0a9a7e79b3055"
+    }
+  ]
+}
